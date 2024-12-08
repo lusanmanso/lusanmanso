@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning React, Next.js, Docker, MQL (MongoDB Query Language) & Python for Data Science
+
 <!--
 **lusanmanso/lusanmanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
